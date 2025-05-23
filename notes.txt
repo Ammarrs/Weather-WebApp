@@ -1,0 +1,2 @@
+some updates 
+you can make a menu sidebar or one button with plus mark to add another card of weather with the actual card
